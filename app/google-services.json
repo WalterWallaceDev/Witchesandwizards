@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "366099811387",
+    "firebase_url": "https://witchesandwizards-1601a.firebaseio.com",
+    "project_id": "witchesandwizards-1601a",
+    "storage_bucket": "witchesandwizards-1601a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:366099811387:android:3fbe6f7a9769307ecc601e",
+        "android_client_info": {
+          "package_name": "com.example.witchesandwizards"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "366099811387-3f8p8jtkn4k0gactq39bcj4o3bvmlp4t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.witchesandwizards",
+            "certificate_hash": "285441f0482f3eb365f6072f9a0f94f954d88e6c"
+          }
+        },
+        {
+          "client_id": "366099811387-ubbanop5p6mmjgq3amvii42o76ta1cmq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOyHwKIQKbGPlOIqgdM7aAsv355d2U9H4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "366099811387-ubbanop5p6mmjgq3amvii42o76ta1cmq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
